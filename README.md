@@ -8,11 +8,11 @@ I. Fundamentos de HTML
 
 ---
 
-    1. Introducción a HTML
-    2. Estructura básica de un documento HTML
-    3. Etiquetas comunes en HTML
-    4. Atributos en HTML
-    5. Enlaces e imágenes
+    1. Maquetación web con HTML5 y accesible.
+    2. Cómo funcionala web desde URL hasta página renderizada.
+    3. Configuración de VSCode y estructura HTML5 básica.
+    4. Etiquetado de texto y jerarquía en HTML.
+    5. Insertar imágenes en HTML con optimización y accesibilidad.
 
 II. Listas y Enlaces
 
@@ -61,7 +61,7 @@ VI. Proyecto Final
 ## Autor
 
 - Nombre: Curso de HTML 2025 de Platzi
-- Email: cybermito@gmail.com
+- Email: [cybermito@gmail.com](mailto:cybermito@gmail.com)
 - GitHub: [cybermito](https://github.com/cybermito)
 - LinkedIn: [Antonio Mesa](https://www.linkedin.com/in/amesacasares)
 
